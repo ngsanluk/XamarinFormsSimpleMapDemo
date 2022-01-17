@@ -4,6 +4,6 @@
              xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
              x:Class="XamarinFormsSimpleMapDemo.MainPage">
 
-<maps:Map x:Name="map" />
+    <maps:Map x:Name="map" />
 
 </ContentPage>
